@@ -1,6 +1,6 @@
-function double(num)
+function triple(num)
 {
-  retun 2*num;
+  retun 3*num;
 }
 
 num = 5;
